@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #63ddf3;
+    background-color: yellow;
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -20,7 +20,11 @@ header {
     padding: 10px;
     text-align: center;
 }
-
+.img{
+    width: 300px;
+    height: 400px;
+    border-radius: 200px;
+}
 section {
     margin-bottom: 20px;
 }
